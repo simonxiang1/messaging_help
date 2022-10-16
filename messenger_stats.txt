@@ -1,0 +1,45 @@
+File Generated Using Nate's Messenger Parser (https://github.com/artyomos/messenger-parser)
+Version 1.0.0
+
+Messenger Chat: Lexie
+
+Total Messages: 8219
+Word Count: 32914
+Character Count: 125074
+Images Sent: 71
+Gifs Sent: 0
+Videos Sent: 12
+Audio Files Sent: 1
+Links Sent: 113
+Reactions Given: 0
+
+The 50 Most Common Words:
+	1. Like (674x / 2.05%)	2. Im (227x / 0.69%)	3. Well (151x / 0.46%)	4. Dont (140x / 0.43%)
+	5. Want (140x / 0.43%)	6. Lol (137x / 0.42%)	7. Get (130x / 0.39%)
+	8. Good (127x / 0.39%)	9. Something (123x / 0.37%)	10. Know (122x / 0.37%)
+	11. W (118x / 0.36%)	12. Ok (111x / 0.34%)	13. Time (108x / 0.33%)
+	14. Actually (103x / 0.31%)	15. Think (102x / 0.31%)	16. Yeah (101x / 0.31%)
+	17. Maybe (101x / 0.31%)	18. One (98x / 0.30%)	19. Wait (92x / 0.28%)
+	20. Mean (90x / 0.27%)	21. Really (89x / 0.27%)	22. Idk (84x / 0.26%)
+	23. Stuff (84x / 0.26%)	24. Also (84x / 0.26%)	25. Go (82x / 0.25%)
+	26. Oh (81x / 0.25%)	27. Say (78x / 0.24%)	28. Would (75x / 0.23%)
+	29. Got (67x / 0.20%)	30. Need (66x / 0.20%)	31. Bruh (66x / 0.20%)
+	32. Wanna (66x / 0.20%)	33. Day (64x / 0.19%)	34. See (62x / 0.19%)
+	35. Even (61x / 0.19%)	36. Yes (61x / 0.19%)	37. Youre (59x / 0.18%)
+	38. Uh (57x / 0.17%)	39. Thats (57x / 0.17%)	40. Cant (56x / 0.17%)
+	41. Work (56x / 0.17%)	42. Still (56x / 0.17%)	43. Tell (54x / 0.16%)
+	44. Back (54x / 0.16%)	45. Sorry (53x / 0.16%)	46. Except (51x / 0.15%)
+	47. Take (50x / 0.15%)	48. Watch (49x / 0.15%)	49. 2 (49x / 0.15%)
+	50. Didnt (48x / 0.15%)
+
+Stats by Member:
+
+Andrew Shang
+
+Total Messages: 5737 (69.80%)
+Word Count: 32914 (100.00%)
+Character Count: 125074 (100.00%)
+Images Sent: 71 (100.00%)
+Videos Sent: 12 (100.00%)
+Audio Files Sent: 1 (100.00%)
+Links Sent: 113 (100.00%)
